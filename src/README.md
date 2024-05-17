@@ -26,8 +26,7 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 2. Implementar as classes e interfaces correspondentes em Java (Opcional).
 
 ## Diagrama UML
-![driagrama Iphone](https://github.com/ErickSantox/Desafio-DIO-POO/assets/118027969/4079a947-9139-442f-a9e1-442a5979c6b1)
-
+![driagrama Iphone](https://github.com/ErickSantox/Desafio-DIO-POO/assets/118027969/a68da018-3a49-455f-952f-e3aa2aff8281)
 
 
 
